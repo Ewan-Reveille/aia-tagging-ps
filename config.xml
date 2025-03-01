@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>aiatagging</name>
+	<displayName><![CDATA[AIA Tagging PrestaShop]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Sends images to an external API for captioning and updates image alt tags.]]></description>
+	<author><![CDATA[AIA HANDICAP]]></author>
+	<tab><![CDATA[seo]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+	<ps_versions_compliancy>
+		<min>1.7.0.0</min>
+		<max>*</max>
+	</ps_versions_compliancy>
+</module>
